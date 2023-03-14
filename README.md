@@ -1,4 +1,4 @@
-# SQL_Projects
+# Table of Contents 
 
-This repository contains my SQL projects. Here are the different projects and their descriptions:
+This repository contains my SQL projects. Here are the different projects and their descriptions
 
