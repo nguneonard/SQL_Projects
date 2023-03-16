@@ -8,5 +8,6 @@ This repository contains my SQL projects. Here are the different projects and th
 
 ## Bike_Sharing
 This project is about exploring and analyzing the Divvy bike-sharing dataset using SQL Server. The data <a href="https://www.divvybikes.com/system-data">Cyclistic-Bike-Share </a> is obtained from the Divvy bike-sharing program in Chicago, USA, and contains information about the trips made by bike riders. Click the link below to see the detail about the project.
+
 [Bike_Sharing](https://github.com/nguneonard/SQL_Projects/tree/main/Bike%20Sharing)
 
