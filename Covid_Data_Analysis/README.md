@@ -8,9 +8,7 @@ Welcome to the PortfolioProject on COVID-19 data analysis, where we explore diff
 
 In this project, we analyze data related to COVID-19 deaths and vaccinations worldwide. We use SQL to extract data from our datasets,
 <a href="https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/cases_deaths/full_data.csv"> full_data </a> and
-<a href="https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"> CovidVaccinations </a>
-
-join them and analyze them to extract meaningful insights. We perform different types of analysis on this data, such as comparing total deaths and cases per country, percentage of the population infected, percentage of the population vaccinated, and more.
+<a href="https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"> CovidVaccinations </a> join them and analyze them to extract meaningful insights. We perform different types of analysis on this data, such as comparing total deaths and cases per country, percentage of the population infected, percentage of the population vaccinated, and more.
 
 ## Getting Started
 To use the SQL code in this repository, you will need to have access to SQL Server or another SQL environment. After that, clone the repository and open the .sql files in your preferred SQL environment.
