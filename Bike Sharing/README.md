@@ -15,7 +15,7 @@ To run this script, you need access to a SQL server and the trip data tables fro
 - Run the script.
 
 ## CYCLIST_TRIP_DATA Table
-The script creates a new table called CYCLIST_TRIP_DATA by combining the data from the trip data tables. This table is then used for data exploration, quality checks, and cleaning. Click the here [divvybikes](https://www.divvybikes.com/system-data) to see the detail of the code section.
+The script creates a new table called CYCLIST_TRIP_DATA by combining the data from the trip data tables. This table is then used for data exploration, quality checks, and cleaning. Click the here [Bike_sharing](https://github.com/nguneonard/SQL_Projects/blob/main/Bike%20Sharing/combining%20tables.sql) to see the detail of the code section.
 
 ## Data Exploration
 The script includes various queries that explore the data and provide insights into the usage of the Divvy bikeshare service. These queries count the number of records, find the number of rides by casual-members and rides by annual-members, count the number of rideable types, and count the number of rides starting and ending at each docking station.
