@@ -7,8 +7,8 @@
 Welcome to the PortfolioProject on COVID-19 data analysis, where we explore different metrics to understand the impact of COVID-19 worldwide.
 
 In this project, we analyze data related to COVID-19 deaths and vaccinations worldwide. We use SQL to extract data from our datasets,
-https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/cases_deaths/full_data.csv
-https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
+<a href="https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/cases_deaths/full_data.csv"> full_data </a> and
+<a href="https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"> CovidVaccinations </a>
 
 join them and analyze them to extract meaningful insights. We perform different types of analysis on this data, such as comparing total deaths and cases per country, percentage of the population infected, percentage of the population vaccinated, and more.
 
