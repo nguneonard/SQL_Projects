@@ -1,7 +1,7 @@
 
 # PortfolioProject - COVID-19 Data Analysis
 <p align="center">
-  <img src="https://github.com/nguneonard/SQL_Projects/blob/main/Covid_Data_Analysis/corona2.jpg"  title="hover text", width=500, height=300>
+  <img src="https://github.com/nguneonard/SQL_Projects/blob/main/Covid_Data_Analysis/corona2.jpg"  title="hover text", width=1000, height=600>
 </p>
 
 Welcome to the PortfolioProject on COVID-19 data analysis, where we explore different metrics to understand the impact of COVID-19 worldwide.
@@ -25,6 +25,7 @@ The SQL code in this repository performs several types of analysis on COVID-19 d
 - looking at the continent with the highest death count
 - a global overview of COVID-19 cases and deaths
 - looking at total population vs vaccinations
+
 In addition to these analyses, we also create a temporary table and a view to store the data for later visualizations.
 
 ## Conclusion
