@@ -1,7 +1,7 @@
 
 ## PortfolioProject - COVID-19 Data Analysis
 <p align="center">
-  <img src="https://github.com/nguneonard/Big-Mart-Sales-Prediction/blob/main/bignart1-thumbnail-1200x1200.png"  title="hover text">
+  <img src="https://github.com/nguneonard/SQL_Projects/blob/main/Covid_Data_Analysis/corona2.jpg"  title="hover text">
 </p>
 
 Welcome to the PortfolioProject on COVID-19 data analysis, where we explore different metrics to understand the impact of COVID-19 worldwide.
