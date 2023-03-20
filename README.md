@@ -13,6 +13,3 @@ This project is about exploring and analyzing the Divvy bike-sharing dataset usi
 This is a repository for analyzing Covid-19 data using SQL Server. The data comes from two tables, <a href="https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/cases_deaths/full_data.csv">CovidDeaths </a>  and <a href="https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"> CovidVaccinations </a>. Click the here 
 [Covid_Data_Analysis](https://github.com/nguneonard/SQL_Projects/tree/main/Covid_Data_Analysis) to see the detail descriptions and analysis of the project.
 
-
-
-[Bike_Sharing](https://github.com/nguneonard/SQL_Projects/tree/main/Bike%20Sharing)
